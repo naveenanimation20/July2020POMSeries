@@ -18,14 +18,15 @@
 	</listeners>
 
 
-	<!-- <test name="Login page Test - FF">
+
+	<test name="Login page Test - FF">
 		<parameter name="browser" value="firefox" />
 
 		<classes>
 			<class name="com.qa.hubspot.tests.LoginPageTest" />
 		</classes>
 
-	</test> -->
+	</test>
 
 	<test name="Login page Test - Chrome">
 		<parameter name="browser" value="chrome" />
